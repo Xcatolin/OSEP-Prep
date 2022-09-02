@@ -24,6 +24,18 @@ _The exam consists of one large network with multiple machines that must be comp
 - [Zolder](https://zolder.io/pen-300-osep-review/)
 - [Security Ramblings](https://casvancooten.com/posts/2021/03/getting-the-osep-certification-evasion-techniques-and-breaching-defenses-pen-300-course-review/)
 - [Cinzinga](https://cinzinga.com/OSEP-PEN-300-Review/)
+- [YGN](http://bl0g.yehg.net/2021/09/osep-course-and-exam-review.html)
+- [Cyber Eagle](https://www.cybereagle.io/blog/osep-review/)
+- [GlobeTech](https://globetech.biz/index.php/2021/06/05/osep-review-the-experienced-penetration-tester/)
+- [schellman](https://www.schellman.com/blog/osep-and-pen-300-course-review)
+- [Christopher Alonso](https://christopherja.rocks/posts/2021/04/osep-exam-tips/)
+- [A journey in infosec](https://davidlebr1.gitbook.io/a-journey-in-infosec/blog/osep-review)
+- [Spaceraccoon](https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam/)
+- [Makosec](https://makosecblog.com/miscellaneous/osep-course-review/)
+- [HeartBurn](https://heartburn.dev/osep-review-2021-offensive-security-experienced-pentester/)
+- [Cristian Cornea](https://corneacristian.medium.com/tips-for-offensive-security-experienced-penetration-tester-osep-certification-92f3801428c3)
+- [Patrick Hener](https://hesec.de/posts/osep/)
+- [Donavan](https://donavan.sg/blog/index.php/2021/07/22/a-fully-understandable-description-fud-of-pen-300/)
 
 ### Personal Preparation
 
