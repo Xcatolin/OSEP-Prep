@@ -36,7 +36,6 @@ _The exam consists of one large network with multiple machines that must be comp
 - [Cristian Cornea](https://corneacristian.medium.com/tips-for-offensive-security-experienced-penetration-tester-osep-certification-92f3801428c3)
 - [Patrick Hener](https://hesec.de/posts/osep/)
 - [Donavan](https://donavan.sg/blog/index.php/2021/07/22/a-fully-understandable-description-fud-of-pen-300/)
-
-### Personal Preparation
-
-[...]
+- [Alex Labs](https://alex-labs.com/pen-300-osep-exam-review/)
+- [Peter Fejer](https://ptr0x1.com/posts/osep-exam/)
+- [Conda (Youtube)](https://www.youtube.com/watch?v=R1apMwbVuDs)
